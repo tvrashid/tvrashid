@@ -1,9 +1,11 @@
 <h1 align="center">Nudebt-Email-Reporter-Node</h1>
+
 ```
 $ git clone git@code.spritle.com:freshdesk/nudebt-email-reporter-node.git
 $ cd nudebt-email-reporter-node
 
 ```
+
 Change the lastid.json file with single ticket id from which ticket this application has to fetch ticket during its first run.
 
 ```
